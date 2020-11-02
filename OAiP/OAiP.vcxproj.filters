@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Term1">
+      <UniqueIdentifier>{40c4dcb3-34ee-40fd-b0a2-d743d2df54e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Term2">
+      <UniqueIdentifier>{986e139d-8058-4e1b-91f4-97e01fa4cabd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Term1.cpp">
+      <Filter>Файлы ресурсов\Term1</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_1.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_2.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_3.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_4.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_5.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_6.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_7A.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_7B.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_8.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_9.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_10.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="WorkInClass.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
