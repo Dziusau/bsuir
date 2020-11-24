@@ -30,5 +30,8 @@
     <ClCompile Include="Task1_4.cpp">
       <Filter>Файлы ресурсов\Term1</Filter>
     </ClCompile>
+    <ClCompile Include="Task1_5.cpp">
+      <Filter>Файлы ресурсов\Term1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
