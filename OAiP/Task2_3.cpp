@@ -21,12 +21,14 @@
 //			return x;
 //	}
 //}
+//
 //Stack* inStack(Stack* p, double in) {
 //	Stack* t = new Stack;
 //	t->info = in;
 //	t->next = p;
 //	return t;
 //}
+//
 //Stack* outStack(Stack* p, double& out) {
 //	Stack* t = p;
 //	out = t->info;

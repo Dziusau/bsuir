@@ -16,6 +16,9 @@
     <Filter Include="Файлы ресурсов\Term1">
       <UniqueIdentifier>{9817e79e-4fcf-4f18-b6db-d185009eac65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Файлы ресурсов\Term2">
+      <UniqueIdentifier>{cb7cbf91-ef8a-43c7-bfed-39b20933575c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Task1_1.cpp">
@@ -32,6 +35,18 @@
     </ClCompile>
     <ClCompile Include="Task1_5.cpp">
       <Filter>Файлы ресурсов\Term1</Filter>
+    </ClCompile>
+    <ClCompile Include="Task1_7.cpp">
+      <Filter>Файлы ресурсов\Term1</Filter>
+    </ClCompile>
+    <ClCompile Include="Task1_6.cpp">
+      <Filter>Файлы ресурсов\Term1</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_1.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2_2.cpp">
+      <Filter>Файлы ресурсов\Term2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
