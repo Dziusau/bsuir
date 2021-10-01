@@ -147,7 +147,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="TestSystem.cpp" />
+    <ClCompile Include="Authorization.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Question.cpp" />
+    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="Teacher.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="User.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Authorization.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Question.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="Teacher.h" />
+    <ClInclude Include="Test.h" />
+    <ClInclude Include="User.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
