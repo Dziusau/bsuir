@@ -18,7 +18,8 @@
 //	}
 //}
 //double fun(double x) {
-//	return x * x * x - 50 * cos(x);
+//	//return x * x * x - 50 * cos(x);
+//	return sin(x) * sin(x) - x / 5.;
 //}
 //double middle(double a, double b, int n) {
 //	double s = 0, h, x;

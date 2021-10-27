@@ -37,7 +37,7 @@
 //			}
 //			cout << "d[" << i << "]\t";
 //			d[i] = getValue("");
-//			if (matrix[i][i] < s) {
+//			if (abs(matrix[i][i]) < s) {
 //				checkDiagonal = true;
 //				break;
 //			}
